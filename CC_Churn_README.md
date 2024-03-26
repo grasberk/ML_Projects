@@ -1,5 +1,6 @@
 # ML_Projects
-# Credit Card Users Churn Prediction (By: Ganesh Avula)
+# Project 2: Credit Card Users Churn Prediction 
+Ganesh Avula
 
 This repository contains the code and analysis for a machine learning project predicting credit card user churn at Thera Bank.
 
