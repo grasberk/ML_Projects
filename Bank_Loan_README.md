@@ -1,5 +1,5 @@
 # ML_Projects
-# AllLife Bank Personal Loan Campaign Prediction (ML_Projects)
+# Project 1: AllLife Bank Personal Loan Campaign Prediction (By: Ganesh Avula)
 
 This repository houses the code and analysis for a machine learning project focused on predicting personal loan purchases by AllLife Bank's liability customers.
 
