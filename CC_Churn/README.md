@@ -39,13 +39,13 @@ This repository includes scripts for data exploration, model building, evaluatio
 2. Install required libraries (`pip install -r requirements.txt`).
 3. Run the Jupyter Notebooks or Python scripts in the specified order (e.g., data exploration followed by model building).
 
-### Project Files
+## Project Files
 
-* `data/`: Folder containing the data files for the project.
-* `notebooks/`: Folder containing Jupyter notebooks for data exploration, analysis, and visualization.
-* `src/`: Folder containing Python scripts for data processing, model building, and evaluation.
-* `requirements.txt`: File containing a list of required Python libraries.
-* `README.md`: This file (you are here!).
+* `csv/`: Folder containing the data files used in the project.
+* `notebooks/`: Folder housing Jupyter notebooks dedicated to data exploration, analysis, and visualization..
+* `README.md`: Project desription, objectives, instructions.
+
+
 
 
 
