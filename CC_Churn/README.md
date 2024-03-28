@@ -31,14 +31,6 @@ The dataset comprises information on Thera Bank's credit card users, including d
 
 This repository includes scripts for data exploration, model building, evaluation, and visualization.
 
-**Prerequisites:** Python libraries like pandas, scikit-learn, matplotlib, etc. (Specific requirements listed in a `requirements.txt` file)
-
-**Instructions:**
-
-1. Clone this repository.
-2. Install required libraries (`pip install -r requirements.txt`).
-3. Run the Jupyter Notebooks or Python scripts in the specified order (e.g., data exploration followed by model building).
-
 ## Project Files
 
 * `csv/`: Folder containing the data files used in the project.
