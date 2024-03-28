@@ -43,8 +43,7 @@ The dataset encompasses information on AllLife Bank's existing customers, includ
 
 This repository comes equipped with scripts for data exploration, model building, evaluation, and visualization.
 
-**Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. (Specific requirements are listed in a `requirements.txt` file for easy installation.)
-
+**Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. 
 
 ## Project Files
 
