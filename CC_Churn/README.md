@@ -31,6 +31,8 @@ The dataset comprises information on Thera Bank's credit card users, including d
 
 This repository includes scripts for data exploration, model building, evaluation, and visualization.
 
+**Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. 
+
 ## Project Files
 
 * `csv/`: Folder containing the data files used in the project.
