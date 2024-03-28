@@ -45,11 +45,6 @@ This repository comes equipped with scripts for data exploration, model building
 
 **Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. (Specific requirements are listed in a `requirements.txt` file for easy installation.)
 
-**Instructions:**
-
-1. Clone this repository using Git.
-2. Install the requisite Python libraries using `pip install -r requirements.txt`.
-3. Execute the Jupyter Notebooks or Python scripts in the designated order (e.g., start with `data_exploration.ipynb` and follow with `model_building.py`).
 
 ## Project Files
 
