@@ -30,9 +30,8 @@ The dataset comprises information on Thera Bank's credit card users, including d
 ### Getting Started
 
 This repository includes scripts for data exploration, model building, evaluation, and visualization.
-
+Data Ingestion: The data set for this project can be downloaded at https://www.kaggle.com/code/kaushikmajumder/credit-card-customer-churn-prediction .
 **Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. 
-  Dataset: https://www.kaggle.com/code/kaushikmajumder/credit-card-customer-churn-prediction
 
 ## Project Files
 
