@@ -40,8 +40,9 @@ The dataset encompasses information on AllLife Bank's existing customers, includ
 3. **Targeting:** Recommend customer segments most suitable for targeted marketing campaigns for personal loans.
 
 ## Getting Started
-
 This repository comes equipped with scripts for data exploration, model building, evaluation, and visualization.
+
+
 **Data Ingestion**
 The dataset for this project can be downloaded at https://www.kaggle.com/code/kaushikmajumder/personal-loan-campaign-model .
 **Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. 
