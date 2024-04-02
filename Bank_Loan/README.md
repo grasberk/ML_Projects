@@ -44,12 +44,11 @@ The dataset encompasses information on AllLife Bank's existing customers, includ
 This repository comes equipped with scripts for data exploration, model building, evaluation, and visualization.
 
 **Prerequisites:** Python libraries including pandas, scikit-learn, matplotlib, etc. 
+   Dataset: https://www.kaggle.com/code/kaushikmajumder/personal-loan-campaign-model
 
 ## Project Files
 
 * `csv/`: Folder containing the data files used in the project.
 * `notebooks/`: Folder housing Jupyter notebooks dedicated to data exploration, analysis, and visualization..
 * `README.md`: Project desription, objectives, instructions.
-
-
 
